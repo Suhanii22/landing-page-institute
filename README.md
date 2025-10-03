@@ -2,7 +2,7 @@
 
 A responsive and modern **landing page** for an IELTS institute built using **React**, **HTML**, **CSS**, **Tailwind CSS**, and **Vite**.
 
-🔗 [View Deployed Site](landing-page-institute-9tzprgcls-suhanii22s-projects.vercel.app)
+🔗 View Deployed Site : landing-page-institute-9tzprgcls-suhanii22s-projects.vercel.app
 
 ---
 
